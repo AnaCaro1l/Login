@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img alt="License" src="imgs/READMEimg.png">
+  <img src="imgs/READMEimg.png">
 </p>
 
 <br>
